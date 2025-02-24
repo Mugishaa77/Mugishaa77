@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Datadrive Africa](https://dashboard.datadrive.africa/)
 
-- 🌱 I’m currently learning **Starknet**
-
-- 👨‍💻 All of my projects are available at [https://salportfolio-mugishaa77s-projects.vercel.app/](https://salportfolio-mugishaa77s-projects.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://salportfolio-mugishaa77s-projects.vercel.app/](https://salportfolio-mugishaa77s-projects.vercel.app/)
 
 - 📝 I regularly write articles on [https://swugisha.medium.com/](https://swugisha.medium.com/)
 
