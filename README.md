@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mugisha</h1>
 <h3 align="center">A software developer from Nairobi</h3>
 
-- 🔭 I’m currently working on [Datadrive Africa](https://dashboard.datadrive.africa/)
+- 🔭 I’m currently working on [Datadrive Africa](https://dashboard.datadrive.africa/) and Nairobi
+- verified
 
 - 👨‍💻 Some of my projects are available at [https://salportfolio-mugishaa77s-projects.vercel.app/](https://salportfolio-mugishaa77s-projects.vercel.app/)
 
