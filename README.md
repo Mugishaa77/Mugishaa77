@@ -1,7 +1,7 @@
 ## Hi, I'm Sally
 
 **Frontend Engineer**
-Currently upskilling through **ALX Pro Dev** – an advanced software engineering program focused on building scalable applications, integrating APIs, and delivering production-ready solutions through agile workflows.  
+Currently upskilling through **ALX ProDev FrontEnd** – an advanced software engineering program focused on building scalable applications, integrating APIs, and delivering production-ready solutions through agile workflows.  
 
 ---
 
