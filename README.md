@@ -7,7 +7,7 @@ Currently upskilling through **ALX ProDev FrontEnd** – an advanced software en
 
 ## Current Projects
 
-### Datadrive Africa  
+## Datadrive Africa  
 Data analytics dashboard for logistics and business operations with **multi-user account access** (Driver, Business, Logistics Company).
 
 **Features:**  
@@ -18,25 +18,26 @@ Data analytics dashboard for logistics and business operations with **multi-user
 - Real-time data visualization with **Chart.js and Recharts**.  
 - Integrated **REST APIs** for live delivery status updates.  
 - Mobile-responsive interface built with **React + Tailwind CSS**.  
-- Performance optimization for faster load times (40% improvement).  
+- Performance optimization for faster load times (**40% improvement**).  
 
 **Tech:** React, TypeScript, Tailwind CSS, Chart.js, REST APIs  
-[View Project](https://dashboard.datadrive.africa/)
+[**View Project**](https://dashboard.datadrive.africa/)  
 
 ---
 
-### Nairobi Verified  
-Mobile-responsive online directory for Nairobi CBD shops.
+## Nairobi Verified  
+Mobile-responsive online directory for Nairobi CBD shops with **multi-user account access** (Merchant, Customer).
 
 **Features:**  
-- Role-based dashboards for merchants and customers.  
-- Location mapping for shop navigation.  
-- E-commerce integration for item buying and selling.  
-- Optimized UI for light and dark modes.  
+- **Role-based authentication** for merchants and customers.  
+- **Merchant:** Manage shop listings, upload products, and track sales.  
+- **Customer:** Browse shops, navigate locations, and make purchases.  
+- Interactive **location mapping** for easy shop navigation.  
+- Integrated **e-commerce** for item buying and selling.  
+- Optimized UI with **light and dark modes** for better accessibility.  
 
 **Tech:** React, Node.js, Express, MongoDB  
-
----
+[**View Project**](https://nairobi-verified-frontend.onrender.com/)  
 
 ## Skills & Technologies  
 **Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, Chart.js, Recharts  
