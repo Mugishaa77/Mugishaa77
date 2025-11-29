@@ -1,58 +1,66 @@
-## Hi, I'm Sally
+✨ Hi, I'm Sally Wanga
+Frontend Engineer | React • TypeScript • Tailwind CSS
+Open to Remote Opportunities • Internships • Contract Roles
 
-**Frontend Engineer**
-Currently upskilling through **ALX ProDev FrontEnd** – an advanced software engineering program focused on refining frontend development skills and building performant, scalable web and mobile applications in javascript and several of it's frameworks.
+Building clean, scalable, and user-focused web applications.
+Graduate of ALX ProDev Frontend, specializing in modern frontend engineering and production-grade development.
 
----
+🚀 Current Project
+Nairobi Verified
+A mobile-responsive online directory for Nairobi CBD shops with multi-user access.
 
-## Current Projects
+Highlights:
 
-## Datadrive Africa  
-Data analytics dashboard for logistics and business operations with **multi-user account access** (Driver, Business, Logistics Company).
+Merchant & customer role-based authentication
 
-**Features:**  
-- **Role-based authentication** for Driver, Business, and Logistic Company accounts.  
-- **Admin:** Full system control, user management, and analytics oversight.  
-- **Merchant:** Manage deliveries, update tracking info, and view performance reports.  
-- **Customer:** Track deliveries in real-time and view order history.  
-- Real-time data visualization with **Chart.js and Recharts**.  
-- Integrated **REST APIs** for live delivery status updates.  
-- Mobile-responsive interface built with **React + Tailwind CSS**.  
-- Performance optimization for faster load times (**40% improvement**).  
+Product uploads + sales tracking
 
-**Tech:** React, TypeScript, Tailwind CSS, Chart.js, REST APIs  
-[**View Project**](https://dashboard.datadrive.africa/)  
+Interactive shop navigation
 
----
+E-commerce features (cart + purchases)
 
-## Nairobi Verified  
-Mobile-responsive online directory for Nairobi CBD shops with **multi-user account access** (Merchant, Customer).
+Light & dark mode interface
 
-**Features:**  
-- **Role-based authentication** for merchants and customers.  
-- **Merchant:** Manage shop listings, upload products, and track sales.  
-- **Customer:** Browse shops, navigate locations, and make purchases.  
-- Interactive **location mapping** for easy shop navigation.  
-- Integrated **e-commerce** for item buying and selling.  
-- Optimized UI with **light and dark modes** for better accessibility.  
+Built with React, Node.js, Express, MongoDB
 
-**Tech:** React, Node.js, Express, MongoDB  
-[**View Project**](https://nairobi-verified-frontend.onrender.com/)  
+🔗 Live Link: nairobiverified.co.ke
 
-## Skills & Technologies  
-**Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, Chart.js, Recharts  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**Other Tools:** Git, GitHub, Docker, Linux  
+💼 What I Build
+Frontend apps using React, TypeScript, Tailwind
 
----
+Dashboards (Recharts / Chart.js)
 
-## Articles  
-[Medium - swugisha](https://swugisha.medium.com/)
+REST API integrations
 
----
+Authentication flows (JWT, sessions)
 
-## Contact  
-**Email:** sallywanga2016@gmail.com  
+Clean, responsive UI/UX
+
+WordPress websites (Elementor, PageLayer, custom setups)
+
+🧰 Tech Stack
+Frontend: React, TypeScript, JavaScript (ES6+), Tailwind CSS, Recharts, Chart.js
+Backend: Node.js, Express.js
+Databases: MongoDB, MySQL
+CMS: WordPress
+Tools: Git, GitHub, Docker, Linux
+
+🔎 Open To
+🌍 Remote Frontend/Full-Stack Internships
+
+💻 Junior Frontend Roles
+
+🧩 Freelance Web Development Projects
+
+🛠️ WordPress Website Builds
+
+⚡ Short-term contract gigs
+
+✍🏾 Articles
+Medium — swugisha
+
+📬 Contact
+📧 Email: sallywanga2016@gmail.com
+🔗 Portfolio: https://portfolio-nine-ashy-10.vercel.app/
 **LinkedIn:** [linkedin.com/in/swugisha](https://www.linkedin.com/in/swugisha)  
 **Twitter:** [twitter.com/swugisha](https://twitter.com/swugisha)  
