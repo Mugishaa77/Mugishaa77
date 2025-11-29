@@ -1,10 +1,8 @@
-✨ Hi, I'm Sally Wanga
+✨ <strong>Hi, I'm Sally Wanga</strong>
 <br/>
-
-
-
-Frontend Engineer | React • TypeScript • Tailwind CSS
-Open to Remote Opportunities • Internships • Contract Roles
+<strong>Frontend Engineer | React • TypeScript • Tailwind CSS</strong>
+<br/>
+<strong>Open to Remote Opportunities • Internships • Contract Roles</strong>
 
 Building clean, scalable, and user-focused web applications.
 Graduate of ALX ProDev Frontend, specializing in modern frontend engineering and production-grade development.
