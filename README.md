@@ -1,4 +1,8 @@
 ✨ Hi, I'm Sally Wanga
+<br/>
+
+
+
 Frontend Engineer | React • TypeScript • Tailwind CSS
 Open to Remote Opportunities • Internships • Contract Roles
 
