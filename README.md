@@ -2,7 +2,7 @@
 <br/>
 <strong>Frontend Engineer | React • TypeScript • Tailwind CSS</strong>
 <br/>
-<strong>Open to Remote Opportunities • Internships • Contract Roles</strong>
+<strong>Open to Remote Opportunities • Collaborations • Contract Roles</strong>
 
 Building clean, scalable, and user-focused web applications.
 Graduate of ALX ProDev Frontend, specializing in modern frontend engineering and production-grade development.
@@ -48,21 +48,15 @@ CMS: WordPress
 Tools: Git, GitHub, Docker, Linux
 
 🔎 Open To
-🌍 Remote Frontend/Full-Stack Internships
-
-💻 Junior Frontend Roles
-
+🌍 Remote Frontend/Full-Stack Roles
 🧩 Freelance Web Development Projects
-
 🛠️ WordPress Website Builds
-
-⚡ Short-term contract gigs
 
 ✍🏾 Articles
 Medium — swugisha
 
 📬 Contact
 📧 Email: sallywanga2016@gmail.com
-🔗 Portfolio: https://portfolio-nine-ashy-10.vercel.app/
+🔗 Portfolio: https://sallywanga.vercel.app/
 **LinkedIn:** [linkedin.com/in/swugisha](https://www.linkedin.com/in/swugisha)  
 **Twitter:** [twitter.com/swugisha](https://twitter.com/swugisha)  
