@@ -1,62 +1,40 @@
-✨ <strong>Hi, I'm Sally Wanga</strong>
-<br/>
-<strong>Frontend Engineer | React • TypeScript • Tailwind CSS</strong>
-<br/>
-<strong>Open to Remote Opportunities • Collaborations • Contract Roles</strong>
+# Hi, I'm Sally 👋
 
-Building clean, scalable, and user-focused web applications.
-Graduate of ALX ProDev Frontend, specializing in modern frontend engineering and production-grade development.
+Software Developer focused on building clean, functional web applications and dashboards.
+Currently exploring backend-integrated systems, API architecture, and scalable frontend-backend solutions.
 
-🚀 Current Project
-Nairobi Verified
-A mobile-responsive online directory for Nairobi CBD shops with multi-user access.
 
-Highlights:
+## 💻 What I Build
+- Web applications and dashboards  
+- REST API integrations  
+- Authentication systems (JWT, sessions)  
+- Clean, responsive UI/UX  
+- Data-driven interfaces  
 
-Merchant & customer role-based authentication
+## 🧰 Tech Stack
 
-Product uploads + sales tracking
+**Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, Recharts, Chart.js  
+**Backend:** Node.js, Express.js, Django  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Linux, Docker  
+**CMS:** WordPress  
 
-Interactive shop navigation
+## 🌱 Currently Learning
+- Advanced backend architecture with Django  
+- Scalable dashboard systems  
+- API design and integration  
 
-E-commerce features (cart + purchases)
+## 🌍 Open To
+- Remote Software Engineering roles  
+- Frontend / Full-Stack development  
+- Freelance web development projects  
 
-Light & dark mode interface
+## 🔗 Links & Contact
+- Portfolio: [sallywanga.vercel.app](https://sallywanga.vercel.app/)  
+- LinkedIn: [linkedin.com/in/swugisha](https://www.linkedin.com/in/swugisha)  
+- Twitter: [twitter.com/swugisha](https://twitter.com/swugisha)  
+- Email: sallywanga2016@gmail.com  
 
-Built with React, Node.js, Express, MongoDB
-
-🔗 Live Link: nairobiverified.co.ke
-
-💼 What I Build
-Frontend apps using React, TypeScript, Tailwind
-
-Dashboards (Recharts / Chart.js)
-
-REST API integrations
-
-Authentication flows (JWT, sessions)
-
-Clean, responsive UI/UX
-
-WordPress websites (Elementor, PageLayer, custom setups)
-
-🧰 Tech Stack
-Frontend: React, TypeScript, JavaScript (ES6+), Tailwind CSS, Recharts, Chart.js
-Backend: Node.js, Express.js
-Databases: MongoDB, MySQL
-CMS: WordPress
-Tools: Git, GitHub, Docker, Linux
-
-🔎 Open To
-🌍 Remote Frontend/Full-Stack Roles
-🧩 Freelance Web Development Projects
-🛠️ WordPress Website Builds
-
-✍🏾 Articles
-Medium — swugisha
-
-📬 Contact
-📧 Email: sallywanga2016@gmail.com
-🔗 Portfolio: https://sallywanga.vercel.app/
-**LinkedIn:** [linkedin.com/in/swugisha](https://www.linkedin.com/in/swugisha)  
-**Twitter:** [twitter.com/swugisha](https://twitter.com/swugisha)  
+## 🔭 Currently Working On
+- Dashboard systems integrating frontend and backend  
+- Improving reusable component patterns in HTML/Django templates  
