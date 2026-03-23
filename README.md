@@ -1,6 +1,6 @@
 # Hi, I'm Sally 👋
 
-Software Developer focused on building clean, functional web applications and dashboards.
+**Junior Software Engineer** focused on building clean, functional web applications and dashboards.
 Currently exploring backend-integrated systems, API architecture, and scalable frontend-backend solutions.
 
 
