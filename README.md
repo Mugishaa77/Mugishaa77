@@ -1,10 +1,12 @@
 # Hi, I'm Sally 👋
 
-**Junior Software Engineer** focused on building clean, functional web applications and dashboards.
+**Software Engineer** focused on building clean, functional web applications and dashboards.
 Currently exploring backend-integrated systems, API architecture, and scalable frontend-backend solutions.
 
 
 ## 💻 What I Build
+- Fast Websites for Mobile and Web Browsers
+- Progressive Web Apps (Off-line Apps)
 - Web applications and dashboards  
 - REST API integrations  
 - Authentication systems (JWT, sessions)  
@@ -25,6 +27,9 @@ Currently exploring backend-integrated systems, API architecture, and scalable f
 - API design and integration  
 
 ## 🌍 Open To
+- Website Building Gigs 
+- Website Management (Wordpress and Code)
+- Systems Development Collaborations
 - Remote Software Engineering roles  
 - Frontend / Full-Stack development  
 - Freelance web development projects  
@@ -36,5 +41,6 @@ Currently exploring backend-integrated systems, API architecture, and scalable f
 - Email: sallywanga2016@gmail.com  
 
 ## 🔭 Currently Working On
+- Vegrid (Software-as-a-service Management Platform)
 - Dashboard systems integrating frontend and backend  
 - Improving reusable component patterns in HTML/Django templates  
