@@ -38,7 +38,7 @@ Currently exploring backend-integrated systems, API architecture, and scalable f
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mugishaa77&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swugisha&layout=compact&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugishaa77&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
