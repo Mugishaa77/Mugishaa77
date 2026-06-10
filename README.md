@@ -41,11 +41,6 @@ Currently exploring backend-integrated systems, API architecture, and scalable f
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugishaa77&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugishaa77&hide_border=true" />
-</p>
-
-
 ## 🔗 Links & Contact
 - Portfolio: [sallywanga.vercel.app](https://sallywanga.vercel.app/)  
 - LinkedIn: [linkedin.com/in/swugisha](https://www.linkedin.com/in/swugisha)  
