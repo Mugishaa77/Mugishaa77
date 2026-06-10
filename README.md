@@ -34,6 +34,18 @@ Currently exploring backend-integrated systems, API architecture, and scalable f
 - Frontend / Full-Stack development  
 - Freelance web development projects  
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mugishaa77&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swugisha&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugishaa77&hide_border=true" />
+</p>
+
+
 ## 🔗 Links & Contact
 - Portfolio: [sallywanga.vercel.app](https://sallywanga.vercel.app/)  
 - LinkedIn: [linkedin.com/in/swugisha](https://www.linkedin.com/in/swugisha)  
